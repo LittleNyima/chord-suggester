@@ -1,3 +1,3 @@
-from tone import ChordNode, StephenMugglin
+from .tone import ChordNode, StephenMugglin
 
 from .generator import RandomGenerator
